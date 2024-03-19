@@ -37,3 +37,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 API: https://home.openweathermap.org/
 Sample: http://api.openweathermap.org/data/2.5/forecast?q=${place}&appid={API key}&cnt=56
+Staging URL: https://weather-app-flickwheel.netlify.app/
+temp API KEY: 54e89a5ba0c37f2d395fd7f322993b9c
